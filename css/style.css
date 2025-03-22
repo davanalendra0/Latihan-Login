@@ -45,6 +45,8 @@ body {
     margin-left: 50px;
     border-radius: 20px;
     background-color: red;
+    border: none;
+    cursor: pointer;
 }
 
 .wrapper .remember-forgot {
